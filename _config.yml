@@ -81,8 +81,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Backend
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link_text: Link Text
         additional_links:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
            # icon: fab fa-github
@@ -99,17 +99,15 @@ content:
           - Junit5
           - Gradle, Maven
       - layout: left
-        border: weak
         title: DevOps
-        description:
+        description: |
           - MySQL, MariaDB, PostgreSQL
           - Tomcat, Undertow
           - Docker
           - Linux centOS
       - layout: left
-        border: weak
         title: Frontend
-        description:
+        description: |
           - HTML5, jsp, css, javascript ES6, jQuery
           
 
