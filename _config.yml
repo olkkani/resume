@@ -61,6 +61,19 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: 디아이섹(現 코드마인드)
+        sub_title: 보안 컨설팅
+        caption: 2020.09 ~ 2022.06 (1년 10개월)
+        #link: Link to company (optional)
+        #quote: >
+         # Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - 전자정부프레임워크, Mybatis, MariaDB 환경에서 개발 경험
+
   - title: Skill # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -71,20 +84,33 @@ content:
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+           # icon: fab fa-github
+           # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #  icon: fab fa-github
+          #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: #>
+          #Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           - java
           - Spring Boot, Spring MVC, Spring Security, Spring Data JPA, 전자정부프레임워크
           - JPA, QueryDSL, Mybatis
           - Junit5
           - Gradle, Maven
+      - layout: left
+        border: weak
+        title: DevOps
+        description:
+          - MySQL, MariaDB, PostgreSQL
+          - Tomcat, Undertow
+          - Docker
+          - Linux centOS
+      - layout: left
+        border: weak
+        title: Frontend
+        description:
+          - HTML5, jsp, css, javascript ES6, jQuery
           
 
 
