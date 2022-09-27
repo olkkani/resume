@@ -65,10 +65,13 @@ content:
     layout: list
     content:
       - layout: left
-        title: 디아이섹
+        title: |
+          디아이섹
+          (現 코드마인드)
         sub_title: 보안 컨설팅
-        caption: 2020.09 ~ 2022.06
-        caption: (1년 10개월)
+        caption: |
+          2020.09 ~ 2022.06
+          (1년 10개월)
         #link: Link to company (optional)
         #quote: >
          # Short description of the company (optional)
