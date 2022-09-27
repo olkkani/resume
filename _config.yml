@@ -64,8 +64,8 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: 디아이섹(現 코드마인드)
+      - layout: left
+        title: 디아이섹
         sub_title: 보안 컨설팅
         caption: 2020.09 ~ 2022.06 (1년 10개월)
         #link: Link to company (optional)
@@ -78,7 +78,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Backend
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
