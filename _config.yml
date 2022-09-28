@@ -158,11 +158,11 @@ content:
 #          Description of qualification
       - layout: left
         title: 자격증
-          description: |
-            - SQLD
+        description: |
+          - SQLD
         title: 학력
-          description: |
-            - 한남대학교 (2015.03 ~ 2021.08)
+        description: |
+          - 한남대학교 (2015.03 ~ 2021.08)
 #  - title: A Little More About Me
 #    layout: text
 #    content: | # this will include new lines to allow paragraphs
