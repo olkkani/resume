@@ -160,6 +160,7 @@ content:
         title: 자격증
         description: |
           - SQLD
+      - layout: left
         title: 학력
         description: |
           - 한남대학교 (2015.03 ~ 2021.08)
