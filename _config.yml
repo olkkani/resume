@@ -159,8 +159,8 @@ content:
       - layout: left
         title: 자격증
         description: |
-          - SQLD
           - 정보처리기사
+          - SQLD
       - layout: left
         title: 학력
         description: |
