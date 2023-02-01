@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: 안찬진
 title: java 백엔드 개발자
-email: olkkani@gmail.com
+email: ahn.chanjin.96@gmail.com
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -198,4 +198,3 @@ exclude : [
   "lib/",
   "scripts/",
   "docker-compose.yml",
-  ]
